@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "APBD-CW2-SOLID-S27747/1.0.0": {
+        "runtime": {
+          "APBD-CW2-SOLID-S27747.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APBD-CW2-SOLID-S27747/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

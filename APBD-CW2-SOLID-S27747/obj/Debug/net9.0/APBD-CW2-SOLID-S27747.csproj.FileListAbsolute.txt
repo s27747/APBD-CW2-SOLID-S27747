@@ -1,0 +1,15 @@
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/bin/Debug/net9.0/APBD-CW2-SOLID-S27747
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/bin/Debug/net9.0/APBD-CW2-SOLID-S27747.deps.json
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/bin/Debug/net9.0/APBD-CW2-SOLID-S27747.runtimeconfig.json
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/bin/Debug/net9.0/APBD-CW2-SOLID-S27747.dll
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/bin/Debug/net9.0/APBD-CW2-SOLID-S27747.pdb
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.AssemblyInfoInputs.cache
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.AssemblyInfo.cs
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.csproj.CoreCompileInputs.cache
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.sourcelink.json
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.dll
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/refint/APBD-CW2-SOLID-S27747.dll
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.pdb
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/APBD-CW2-SOLID-S27747.genruntimeconfig.cache
+/Users/jakuberbetowski/RiderProjects/APBD-CW2-SOLID-S27747/APBD-CW2-SOLID-S27747/obj/Debug/net9.0/ref/APBD-CW2-SOLID-S27747.dll
