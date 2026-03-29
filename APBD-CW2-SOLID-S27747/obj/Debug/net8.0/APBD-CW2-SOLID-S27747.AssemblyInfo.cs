@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APBD-CW2-SOLID-S27747")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3843ea14deab20198c0cd996007a92143606a847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223280a4af07b6db72ce9a1a5c4001ecd8ea7a1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("APBD-CW2-SOLID-S27747")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APBD-CW2-SOLID-S27747")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
