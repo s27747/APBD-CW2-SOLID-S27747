@@ -1,4 +1,4 @@
-namespace APBD_CW2_SOLID_S27747.Models.Equipment;
+namespace APBD_CW2_SOLID_S27747.Models.Equipments;
 
 public class Projector : Equipment
 {
