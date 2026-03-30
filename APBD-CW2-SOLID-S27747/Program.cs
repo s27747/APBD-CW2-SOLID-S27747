@@ -1,3 +1,3 @@
-﻿
+﻿using APBD_CW2_SOLID_S27747.UI;
 
-Console.WriteLine("University Equipment Rental");
+new DemoRunner().Run();
