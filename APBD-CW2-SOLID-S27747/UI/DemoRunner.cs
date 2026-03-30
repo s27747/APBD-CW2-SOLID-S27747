@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using APBD_CW2_SOLID_S27747.Models.Equipments;
 using APBD_CW2_SOLID_S27747.Models.Loans;
 using APBD_CW2_SOLID_S27747.Models.Users;

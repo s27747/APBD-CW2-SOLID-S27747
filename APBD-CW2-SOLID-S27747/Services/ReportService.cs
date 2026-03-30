@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using APBD_CW2_SOLID_S27747.Models.Equipments;
 using APBD_CW2_SOLID_S27747.Repositories.Interfaces;
 
